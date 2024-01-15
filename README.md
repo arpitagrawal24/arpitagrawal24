@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="275" src="https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUzMDQ3MjUsIm5iZiI6MTcwNTMwNDQyNSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE1VDA3NDAyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3ODQwZjAwNGEyYzEyM2U4MzI0N2VlYTZiMmZhMmIyOWQwMDMxNjdkZjYwNmZmZjA3NTg3OWIxMTU1MGUxNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-Q0Tl0dD05adytkh0SJE_nbUUK9O2z8D3Bq-Ptffk6w"  />
+  <img height="275" width="100%" src="https://github.com/arpitagrawal24/arpitagrawal24/blob/main/Header.png"  />
 </div>
 
 ###
